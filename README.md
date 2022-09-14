@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Check out my projects in my pinned section.
+
+For more info about me, see my [LinkedIn profile here](https://www.linkedin.com/in/kevin-h-zhang/)
+
 <!--
 **khz538/khz538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
