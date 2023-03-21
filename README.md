@@ -1,7 +1,4 @@
 ### Hi there 👋
-From building a birdhouse as a kid to building Excel models at work, I've come to realize that engineering a product is among the most rewarding things I've experienced over the course of my life. 
-
-Coupled with the limitless possibilities of the software engineering field, I hope to find enjoyment continuing to create, learn, and in the end make a positive impact on the lives of others.
 
 Check out my projects in my pinned section.
 
